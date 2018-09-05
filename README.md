@@ -11,18 +11,10 @@ You will:
   -     Right arrow to move to the right
 You have to make it across to the top without colliding with the bugs. The bugs are your enemies; avoid them as your life depends on it :)
 
-  - If you collide with the bugs befoe making it across; you have to start over. The game resets to your original position on the board.
- 
+  - If you collide with the bugs before making it across; you have to start over. The game resets to your original position on the board.
+
 # When you win the game, you get a pop-up
 
 Once you made it across the board without a collision, you've won the game. You will then get a pop-up congratulating you on your success.
-    
+
 You get to try again by pressing the Play Again button.
-
-
-
-
-
-
-
-
