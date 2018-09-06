@@ -4,7 +4,7 @@
 Are you old enough to remember the game Frogger? If you were not around in the 1980's , probably not. This arcade game is a cute rendition of the old game Frogger. Like Frogger as your player was a frog trying to cross a busy highway without getting smashed by cars; with this game, you are a beautiful princess trying to make your way across the board to safety. That's without colliding with some nasty bugs (your enemies)!
 
 To play the game locally:
-1. Clone this repository
+1. Clone this repository by clicking the green "Clone or download" button via GitHub Desktop or Download ZIP
 2. Open the .html file in your browser
 
 You will:
