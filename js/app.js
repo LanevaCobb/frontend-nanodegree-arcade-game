@@ -63,7 +63,7 @@ Girl.prototype.update = function(dt) {
     }
   }
 
-  if(this.y < 56) { //Did we make it across?
+  if(this.y > 56) { //Did we make it across?
       reset();
       toggle_modal(); //Displays modal when game is won
   }
