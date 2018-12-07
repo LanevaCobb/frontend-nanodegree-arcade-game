@@ -79,7 +79,7 @@ function toggle_modal() { //toggle for the modal- on/off
   modal.classList.toggle('popup_hide');
 }
 
-toggle_modal(); // toggle off
+
 
 Girl.prototype.render = function() {
   ctx.drawImage(Resources.get(this.sprite), this.x, this.y);
